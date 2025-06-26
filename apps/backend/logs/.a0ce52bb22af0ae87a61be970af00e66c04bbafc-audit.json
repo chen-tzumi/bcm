@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/ian-otieno-ochieng/Desktop/work/full-stack-react-node/apps/backend/logs/.a0ce52bb22af0ae87a61be970af00e66c04bbafc-audit.json",
+    "files": [
+        {
+            "date": 1746695652435,
+            "name": "/home/ian-otieno-ochieng/Desktop/work/full-stack-react-node/apps/backend/logs/error-2025-05-08.log",
+            "hash": "c5d55f74692e4c69793fefff74c3c3fb488f8d94506e213e4d49ecd0efdecef6"
+        },
+        {
+            "date": 1748852200270,
+            "name": "/home/ian-otieno-ochieng/Desktop/work/full-stack-react-node/apps/backend/logs/error-2025-06-02.log",
+            "hash": "83cc179fe98005f1bd1c9bb5fdce4d1b7cf559dccf668a60eaa3ab071754db4a"
+        }
+    ],
+    "hashType": "sha256"
+}

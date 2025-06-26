@@ -1,0 +1,461 @@
+2025-06-17 19:24:43 info: MongoDB Connected: 127.0.0.1
+2025-06-17 19:24:43 info: Server running in development mode on port 5000
+2025-06-17 19:25:16 info: User log out - 684b44bbdc202210189a49dc
+2025-06-17 19:25:16 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 19:25:16 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 19:25:21 error: POST /api/v1/auth/login: Invalid credentials
+Error: Invalid credentials
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\controllers\auth.ts:126:19
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-17 19:25:31 info: User log in - 684b44bbdc202210189a49e1
+2025-06-17 19:25:55 info: User log out - 684b44bbdc202210189a49e1
+2025-06-17 19:25:55 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 19:25:55 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 19:26:01 info: User log in - 684b44bbdc202210189a49dc
+2025-06-17 19:27:28 info: User log out - 684b44bbdc202210189a49dc
+2025-06-17 19:27:28 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 19:27:28 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 19:27:37 info: User log in - 684b44bbdc202210189a49e1
+2025-06-17 19:44:40 info: MongoDB Connected: 127.0.0.1
+2025-06-17 19:44:40 info: Server running in development mode on port 5000
+2025-06-17 19:46:21 info: MongoDB Connected: 127.0.0.1
+2025-06-17 19:46:21 info: Server running in development mode on port 5000
+2025-06-17 20:26:47 info: MongoDB Connected: 127.0.0.1
+2025-06-17 20:26:47 info: Server running in development mode on port 5000
+2025-06-17 20:28:50 info: MongoDB Connected: 127.0.0.1
+2025-06-17 20:28:50 info: Server running in development mode on port 5000
+2025-06-17 20:28:51 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:28:51 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:28:55 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:28:55 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:28:55 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:28:55 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:23 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:23 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:23 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:23 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:31 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:31 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:31 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:31 error: GET /api/v1/settings/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:35 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:35 error: GET /api/v1/auth/me: Not authorized to access this route : errrTokenExpiredError: jwt expired
+Error: Not authorized to access this route : errrTokenExpiredError: jwt expired
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:29:42 info: User log in - 684b44bbdc202210189a49dc
+2025-06-17 20:32:01 info: User log out - 684b44bbdc202210189a49dc
+2025-06-17 20:32:01 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:32:01 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:32:07 info: User log in - 684b44bbdc202210189a49e1
+2025-06-17 20:33:35 info: User log out - 684b44bbdc202210189a49e1
+2025-06-17 20:33:35 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:33:35 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:33:45 info: User log in - 684b44bbdc202210189a49dc
+2025-06-17 20:34:09 info: User log out - 684b44bbdc202210189a49dc
+2025-06-17 20:34:09 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:09 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:13 info: User log in - 684b44bbdc202210189a49e1
+2025-06-17 20:34:29 info: User log out - 684b44bbdc202210189a49e1
+2025-06-17 20:34:29 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:29 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:32 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:32 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:32 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:34:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\למחיקה\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-17 20:35:08 info: User created - 6851a74c7a7721c7e06c35ff

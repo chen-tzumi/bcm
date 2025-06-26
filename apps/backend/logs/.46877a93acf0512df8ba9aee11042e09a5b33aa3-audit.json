@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ian-otieno-ochieng/Desktop/work/full-stack-react-node/apps/backend/logs/.46877a93acf0512df8ba9aee11042e09a5b33aa3-audit.json",
+    "files": [
+        {
+            "date": 1748852200187,
+            "name": "/home/ian-otieno-ochieng/Desktop/work/full-stack-react-node/apps/backend/logs/application-2025-06-02.log",
+            "hash": "5b6e6d86f8657ffa8e8c9560b1a4039dd4e1a55c7891637c03e882fbba6de41d"
+        }
+    ],
+    "hashType": "sha256"
+}

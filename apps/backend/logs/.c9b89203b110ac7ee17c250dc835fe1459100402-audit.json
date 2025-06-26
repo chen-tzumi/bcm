@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\chen tsumai\\Documents\\hackeru\\Final project\\bcm update4\\למחיקה\\bcm-main4\\bcm-main4\\bcm-main\\apps\\backend\\logs\\.c9b89203b110ac7ee17c250dc835fe1459100402-audit.json",
+    "files": [
+        {
+            "date": 1750177475333,
+            "name": "C:\\Users\\chen tsumai\\Documents\\hackeru\\Final project\\bcm update4\\למחיקה\\bcm-main4\\bcm-main4\\bcm-main\\apps\\backend\\logs\\application-2025-06-17.log",
+            "hash": "3b410e78b08e55703f4cc8a81fd1d2019a8d45bc7b27dada2abeaae0fa2efc06"
+        }
+    ],
+    "hashType": "sha256"
+}

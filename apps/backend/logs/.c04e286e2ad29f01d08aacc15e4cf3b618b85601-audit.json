@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\chen tsumai\\Documents\\hackeru\\Final project\\bcm update4\\bcm-main4\\bcm-main4\\bcm-main\\apps\\backend\\logs\\.c04e286e2ad29f01d08aacc15e4cf3b618b85601-audit.json",
+    "files": [
+        {
+            "date": 1749761439269,
+            "name": "C:\\Users\\chen tsumai\\Documents\\hackeru\\Final project\\bcm update4\\bcm-main4\\bcm-main4\\bcm-main\\apps\\backend\\logs\\application-2025-06-12.log",
+            "hash": "85fcd3b8c8445237aa1109a39fe57e3f442affe3394f6b560851a0891cbe216f"
+        },
+        {
+            "date": 1749762009958,
+            "name": "C:\\Users\\chen tsumai\\Documents\\hackeru\\Final project\\bcm update4\\bcm-main4\\bcm-main4\\bcm-main\\apps\\backend\\logs\\application-2025-06-13.log",
+            "hash": "0d1182c13a59f441fdda004f2f1c0e4b8f3d011d7c0bccf962228c3e794bf018"
+        },
+        {
+            "date": 1749911095840,
+            "name": "C:\\Users\\chen tsumai\\Documents\\hackeru\\Final project\\bcm update4\\bcm-main4\\bcm-main4\\bcm-main\\apps\\backend\\logs\\application-2025-06-14.log",
+            "hash": "663f5598cc290c013e4a542c033a0315d6d6f39d188f3376d2808edec065ed79"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,595 @@
+2025-06-13 00:01:30 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:01:30 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:01:30 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:01:30 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:01:40 error: Unhandled Rejection: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\connection.js:816:11)
+    at NativeConnection.openUri (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\connection.js:791:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connectDB (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\config\db.ts:5:16)
+    at async Server.<anonymous> (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\server.ts:113:3)
+2025-06-13 00:07:07 error: Unhandled Rejection: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\connection.js:816:11)
+    at NativeConnection.openUri (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\connection.js:791:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connectDB (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\config\db.ts:5:16)
+    at async Server.<anonymous> (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\server.ts:113:3)
+2025-06-13 00:21:23 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:21:23 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:21:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:21:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:21:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:21:32 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+Error: Not authorized to access this route : errrJsonWebTokenError: invalid signature
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:53:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:53:32 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 00:55:59 error: PATCH /api/v1/businesscards/6833feab7bb58b65a28882e9: Validation failed: owner: Path `owner` is required.
+ValidationError: Validation failed: owner: Path `owner` is required.
+    at _done (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:228:19)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:204:11
+    at schemaPath.doValidate.updateValidator (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:162:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\schematype.js:1360:11
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-06-13 00:56:02 error: PATCH /api/v1/businesscards/6833feab7bb58b65a28882e9: Validation failed: owner: Path `owner` is required.
+ValidationError: Validation failed: owner: Path `owner` is required.
+    at _done (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:228:19)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:204:11
+    at schemaPath.doValidate.updateValidator (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:162:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\schematype.js:1360:11
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-06-13 00:56:05 error: PATCH /api/v1/businesscards/6833feab7bb58b65a28882e9: Validation failed: owner: Path `owner` is required.
+ValidationError: Validation failed: owner: Path `owner` is required.
+    at _done (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:228:19)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:204:11
+    at schemaPath.doValidate.updateValidator (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\helpers\updateValidators.js:162:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\node_modules\mongoose\lib\schematype.js:1360:11
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-06-13 01:26:26 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:26:26 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:26:29 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:26:29 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:26:29 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:26:29 error: GET /api/v1/settings/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:09 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:09 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:09 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:09 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:45 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:45 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:45 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:27:45 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:18 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:18 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:21 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:21 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:31 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:31 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:31 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:42:31 error: GET /api/v1/settings/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:59:54 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 01:59:54 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:01:01 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:01:01 error: GET /api/v1/auth/me: Not authorized to access this route
+Error: Not authorized to access this route
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:34:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:06:44 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:06:44 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:06:57 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:06:57 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:07:03 error: POST /api/v1/auth/login: Invalid credentials
+Error: Invalid credentials
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\controllers\auth.ts:126:19
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-13 02:07:15 error: POST /api/v1/auth/login: Invalid credentials
+Error: Invalid credentials
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\controllers\auth.ts:126:19
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-06-13 02:12:56 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:12:56 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:18:51 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+2025-06-13 02:18:51 error: GET /api/v1/auth/me: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+Error: Not authorized to access this route : errrJsonWebTokenError: jwt malformed
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\auth.ts:46:9
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\apps\backend\src\middleware\async.ts:8:21
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\chen tsumai\Documents\hackeru\Final project\bcm update4\bcm-main4\bcm-main4\bcm-main\node_modules\express\lib\router\layer.js:95:5)
